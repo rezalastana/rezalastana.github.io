@@ -1,2 +1,2 @@
 # rezalastana.github.io
-My Personal Portofolio
+My Personal Portofolio using tailwindCSS
